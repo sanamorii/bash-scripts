@@ -4,14 +4,14 @@ My linux configuration.
 | :-- | :-- |
 | **Display Server/Protocol** | wayland, xdg-desktop-portal-wlr |
 | **Window Manager** | hyprland-git / [swayfx](https://github.com/WillPower3309/swayfx) w/ autotiling |
-| **Login Daemon** | greetd |
-| **Greeter** | tuigreet |
+| **Login Daemon** | greetd w/ tuigreet |
 | **Terminal** | alacritty |
-| **Status Bar** | waybar |
+| **Status Bar/Widgets** | waybar / ewww |
 | **Application Menu** | [rofi-lbonn-wayland](https://github.com/lbonn/rofi) |
 | **Music Player** | mpris, mpd, ncmpcpp, spotifyd, ncspot |
-| **Text Editor** | visual-studio-code-bin, jetbrains |
+| **Text Editor** | visual-studio-code-bin, jetbrains, nvim |
 | **Web Browser** | firefox-beta |
+| **Shell** | fish, fisher, bash, tide (terminal prompts) |
 | **Misc** | pywal, rofi-powermenu |
 
 |Fonts||
